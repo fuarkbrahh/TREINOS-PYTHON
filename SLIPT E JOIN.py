@@ -4,7 +4,7 @@ nom3 = str(input('Digite o seu nome e idade usando uma,: '))
 nom4 = str(input('Digite o seu nome e idade usando uma,: '))
 nom5 = str(input('Digite o seu nome e idade usando uma,: '))
 
-nomes_e_idades = (nom1 + ' ' + nom2 + ' ' + nom3 + ' ' + nom4 + ' ' + nom5)
+nomes_e_idades1 = (nom1 + ' ' + nom2 + ' ' + nom3 + ' ' + nom4 + ' ' + nom5)
 
 
-print('lista de nomes e idades:', nomes_e_idades.split())
+print('lista de nomes e idades:', nomes_e_idades1.split())
