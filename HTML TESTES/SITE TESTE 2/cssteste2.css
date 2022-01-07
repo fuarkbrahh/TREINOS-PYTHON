@@ -1,0 +1,47 @@
+*{
+box-sizing: border-box;
+}
+
+body{font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+padding: 10px;
+background: #f1f1f1;}
+
+.header{padding: 50px;
+    background: white;
+    margin-bottom: 0px;
+width: 100%;
+text-align: center;}
+
+
+.header h1{
+font-size: 30px;
+font-style: italic;
+width: 100%;}
+
+nav{overflow: hidden;
+    background-color: #333;}
+
+
+.navegac a{float: left;
+    display: block;
+color: #f2f2f2;
+padding: 14px 16px;
+text-decoration: none;
+text-align: center;}
+
+.navegac a:hover{background-color: #ddd;
+    color: black;}
+
+
+.content{width: 75%;
+float: left;}
+
+aside{float:left;
+width: 25%;
+padding-left: 20px;}
+
+.card{background-color: white;
+padding:20px;
+margin-top: 20px;}
+
+

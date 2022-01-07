@@ -1,0 +1,22 @@
+*{box-sizing: border-box;}
+body{font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+padding: 10px;
+background-color: aliceblue;}
+
+.titulo1 img{width: 100%;
+height: 300px;
+padding: ;}
+
+.nav{overflow: hidden;
+background-color: #333;}
+
+.nav a {float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+font-size: 22px;}
+
+.nav :hover{background-color: #ddd;
+color: black;}
